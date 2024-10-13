@@ -12,8 +12,8 @@
 
 ## تصاویر :
 
-![شماتیک مدار]()
-![تصویر]()
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/blink/blink.JPG?raw=true)
+![تصویر](https://github.com/viana-rhs/Microprocessor/blob/main/blink/blink1.jpg?raw=true)
 
 ## کد پروژه:
 
