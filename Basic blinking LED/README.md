@@ -24,5 +24,5 @@ digitalWrite(led1, HIGH);
 digitalWrite(led2, LOW);
 }
 
-![شماتیک مدار](Basic blinking LED.JPEG)
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Basic%20blinking%20LED/Basic%20blinking%20LED.JPG?raw=true)
 
