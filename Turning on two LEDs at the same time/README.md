@@ -9,8 +9,8 @@
 - نرم‌افزار Arduino IDE
 
 ## تصاویر :
-
-
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Turning%20on%20two%20LEDs%20at%20the%20same%20time/Turning%20on%20two%20LEDs%20at%20the%20same%20time.JPG?raw=true)
+![تصویر](https://github.com/viana-rhs/Microprocessor/blob/main/Turning%20on%20two%20LEDs%20at%20the%20same%20time/Turning%20on%20two%20LEDs%20at%20the%20same%20time1.jpg?raw=true)
 ## کد پروژه:
 
 ```cpp
