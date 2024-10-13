@@ -12,8 +12,8 @@
 
 ## تصاویر :
 
-![شماتیک مدار]()
-![تصویر]()
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Asynchronous%20dual%20LED%20blinking/Asynchronous%20dual%20LED%20blinking.JPG?raw=true)
+![تصویر](https://github.com/viana-rhs/Microprocessor/blob/main/Asynchronous%20dual%20LED%20blinking/Asynchronous%20dual%20LED%20blinking1.jpg?raw=true)
 
 
 ## کد پروژه:
