@@ -10,7 +10,7 @@
 
 ## تصاویر:
 ![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Basic%20blinking%20LED/Basic%20blinking%20LED.JPG?raw=true)
-
+![تصویر](https://github.com/viana-rhs/Microprocessor/blob/main/Basic%20blinking%20LED/Basic%20blinking%20LED1.jpg?raw=true)
 ## کد پروژه:
 
 ```cpp
