@@ -8,6 +8,9 @@
 - سیم‌های رابط
 - نرم‌افزار Arduino IDE
 
+## تصاویر:
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Basic%20blinking%20LED/Basic%20blinking%20LED.JPG?raw=true)
+
 ## کد پروژه:
 
 ```cpp
@@ -24,6 +27,4 @@ digitalWrite(led1, HIGH);
 digitalWrite(led2, LOW);
 }
 
-## تصاویر:
-![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/Basic%20blinking%20LED/Basic%20blinking%20LED.JPG?raw=true)
 
