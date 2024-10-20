@@ -1,4 +1,3 @@
-readme_content_fa_led_btn = """
 # پروژه Arduino: کنترل LED با استفاده از دکمه فشاری
 
 ## مقدمه
@@ -32,3 +31,9 @@ void loop() {
     digitalWrite(led, LOW);  // خاموش کردن LED در صورت عدم فشردن دکمه
   }
 }
+
+## تصاویر :
+
+![شماتیک مدار](https://github.com/viana-rhs/Microprocessor/blob/main/%D8%AC%D9%84%D8%B3%D9%87%2023%20%D9%85%D9%87%D8%B1/pushbtn/pick2.jpg?raw=true)
+![تصویر](https://github.com/viana-rhs/Microprocessor/blob/main/%D8%AC%D9%84%D8%B3%D9%87%2023%20%D9%85%D9%87%D8%B1/pushbtn/p3.JPG?raw=true)
+![ویدیو](https://github.com/viana-rhs/Microprocessor/raw/refs/heads/main/%D8%AC%D9%84%D8%B3%D9%87%2023%20%D9%85%D9%87%D8%B1/pushbtn/p4.webm)
